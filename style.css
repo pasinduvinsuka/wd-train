@@ -1,0 +1,25 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+}
+
+.td1{
+    background-color: blueviolet;
+}
+.td2{
+    background-color: brown;
+}
+.td3{
+    background-color: green;
+}
+.td4{
+    background-color: rgb(255, 191, 0);
+}
+.td5{
+    background-color: darkorange;
+}
+.td6{
+    background-color: violet;
+}
