@@ -23,3 +23,7 @@ table, th, td {
 .td6{
     background-color: violet;
 }
+
+.section2, .section3{
+    padding: 10px;
+}
